@@ -20,7 +20,7 @@ Open the game
 Press spacebar to start the game
 Press spacebar or up arrow to jump on the cactus
 When the game progresses the speed of the game will get fast
-You will see the score of the game and the height score of the game on the top corner of the game
+You will see the score of the game and the highest score of the game on the top corner of the game
 Game will record the highest score of the game
 When you touches the cactus the game will be over and you can start the game again through the “play again” button
 You will get the chance to beat the highest score of the game
